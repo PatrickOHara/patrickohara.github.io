@@ -2,11 +2,6 @@
 permalink: /
 title: "About Patrick O'Hara"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-  - /index/
-  - /index.html
 ---
 
 I am a forth year PhD student in Computer Science at the University of Warwick supervised by [Prof Theo Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) and [Dr Ramanujan Sridharan](https://msramanujan.weebly.com/). I am an active member of the [Warwick Machine Learning Group](https://wmlg.io/).

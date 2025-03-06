@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About Patrick O'Hara"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/

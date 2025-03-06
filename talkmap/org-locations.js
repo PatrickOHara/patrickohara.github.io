@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
+    "The Prize-collecting Travelling Salesman Problem<br />Warwick Postgraduate Colloquium in Computer Science 2021; University of Warwick, UK",
+    52.3813073,
+    -1.5639569481637439
+  ],
+  [
+    "Distributionally Robust Routing Problems<br />Warwick Postgraduate Colloquium in Computer Science 2023 Winter; University of Warwick, UK",
+    52.3813073,
+    -1.5639569481637439
+  ],
+  [
+    "Running from air pollution: prediction, forecasting & routing<br />CogX 2019; London, UK",
     51.5074456,
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Digital Twin of London Air Quality<br />Global to Local Environmental Exploration with Data Science and AI Innovations; University of Warwick, UK",
+    52.3813073,
+    -1.5639569481637439
   ]
 ];

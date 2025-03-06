@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
-title_separator          : "- "
-name                     : &name "Patrick O'Hara"
-description              : &description "Personal webpage"
-url                      : https://patrickohara.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+title                    : "Your Name / Site Title"
+title_separator          : "-"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PatrickOHara/patrickohara.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -150,45 +150,6 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Patrick O'Hara"
-  avatar           : "patrick.png"
-  bio              : "PhD Candidate in Computer Science"
-  location         : 
-  employer         : "University of Warwick"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FrPPYhIAAAAJ&hl=en"
-  email            : "patrick.h.o-hara@warwick.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "https://github.com/PatrickOHara"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/patrick-o-hara-9a0b45155/"
-  orcid            : "https://orcid.org/0000-0001-9600-7554"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files

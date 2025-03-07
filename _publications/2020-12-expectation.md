@@ -4,7 +4,7 @@ collection: publications
 permalink: '/publications/2020-12-expectation'
 excerpt: ''
 date: 2020-12-01
-venue: 'ML4PH @ NeurIPS 2020'
+venue: 'NeurIPS workshop on Machine Learning in Public Health'
 paperurl: 'https://arxiv.org/abs/2012.07574'
 citation: "Haycock, C., Thorpe-Woods, E., Walsh, J., O'Hara, P., Giles, O., Dhir, N., and Damoulas, T. (2020). An expectation-based network scan statistic for a covid-19 early warning system. Machine Learning in Public Health workshop, Neural Information Processing Systems."
 ---

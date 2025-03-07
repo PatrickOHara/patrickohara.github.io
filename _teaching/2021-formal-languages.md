@@ -1,5 +1,5 @@
 ---
-title: "CS259 Formal Languages 21/22"
+title: "CS259 Formal Languages - Seminar Tutor (20/21, 21/22)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-formal-languages
